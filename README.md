@@ -1,2 +1,2 @@
 # pred_upper_thresh_proba
-Prediction of upper threshold probability.
+Predict the probability that the target is greater than the threshold value without explicitly using the target's value.
